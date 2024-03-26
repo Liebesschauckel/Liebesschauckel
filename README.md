@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Liebesschauckel
+- 👀 willkommen in der Gruppe 
+- 🌱 du hast jetzt 15 Minuten Zeit um dich vorzustellen mit
+- Bild
+- Name
+- Alter
+- Wohnort 
+- 💞️ schaffst du es nicht in der Zeit bekommst du automatisch den Freiflug 
